@@ -10,9 +10,14 @@ identifying this model.
 ## My Approach
 
 I explored relationships between variables closely and selected the most important ones to build my random forest model. 
+(Question 3 and 4 from the code file)
 
+- [View the Report (PDF)](exam%201%20-%20stats%200218.pdf)
+- [HTML Report](Untitled.html)
+- [Quarto Code (QMD)](Untitled.qmd)
 
 <img width="741" alt="Screen Shot 2025-06-26 at 11 48 01 AM" src="https://github.com/user-attachments/assets/ac810d65-bece-4a60-a116-65fcf7f88321" />
 <img width="744" alt="Screen Shot 2025-06-26 at 11 48 07 AM" src="https://github.com/user-attachments/assets/77a0cfd0-e9da-4133-9391-ebf1e6c498c7" />
 <img width="720" alt="Screen Shot 2025-06-26 at 11 47 56 AM" src="https://github.com/user-attachments/assets/206845cf-f5aa-42af-8aaa-2e1de2e28bd3" />
+
 
